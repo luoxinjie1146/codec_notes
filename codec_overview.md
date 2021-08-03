@@ -4,6 +4,7 @@
 
 * PSNR
 * [SSIM](https://blog.csdn.net/ecnu18918079120/article/details/60149864)
+* [autoCodecTest](https://soaringlee.blog.csdn.net/article/details/119296271)
 
 ## 无损压缩算法
 
